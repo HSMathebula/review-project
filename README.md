@@ -1,6 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio: Admission trail project
+# Survey form: Admission trail project
+
+<!-- please update the readme file -->
+<!-- please make sure there are no duplicates on your css -->
 
 For this repository, I've created html templates and styling files in order to built a responsive portfolio ,  which can help to easy explorate  profiles from differents devices.
 
